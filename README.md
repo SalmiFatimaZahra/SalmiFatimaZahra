@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Fatima Zahra Salmi
 
-<!--
-**SalmiFatimaZahra/SalmiFatimaZahra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Étudiante en 2ᵉ année à l’ENSIAS – Filière IDSIT**  
+💡 Passionnée par : **Data Science, Intelligence Artificielle, Cloud & DevOps**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎖️ Badges & Achievements
+
+### 🔹 Microsoft Learn – Introduction to AI Concepts  
+✔ Module completed successfully  
+👉 [Voir mon badge](https://learn.microsoft.com/api/achievements/share/en-us/FATIMAZAHRASALMI-1319/CYYSUN79?sharingId=5A4EFC6C61DAA9F5)
+
+---
+
+## 📘 About Me
+
+- 📚 Étudiante ingénieure informatique  
+- 🤖 Intéressée par l’IA, Machine Learning et Data  
+- 🌐 Commence à construire mon portfolio GitHub  
+- 🚀 En train de suivre plusieurs parcours Data & IA
+
+---
+
+## 📫 Contact  
+- GitHub : https://github.com/SalmiFatimaZahra  
