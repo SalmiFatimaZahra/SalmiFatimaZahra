@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Fatima Zahra Salmi
 
-🎓 **2nd-Year Student at ENSIAS – IDSIT Program**  
-💡 Passionate about: **Data Science, Artificial Intelligence, Cloud & DevOps**
+🎓 **3rd-Year Student at ENSIAS – D2S Program**  
+💡 Passionate about: **Data Science, Software, Artificial Intelligence and DevOps**
 
 ---
 
@@ -16,7 +16,7 @@
 ## 📘 About Me
 
 - 📚 Computer Science Engineering Student  
-- 🤖 Interested in AI, Machine Learning, and Data  
+- 🤖 Interested in Software, Machine Learning, and Data  
 - 🌐 Starting to build my GitHub portfolio  
 - 🚀 Currently following several Data & AI learning paths
 
